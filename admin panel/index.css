@@ -1,0 +1,54 @@
+:root{
+    --color1: #7BBCB6;
+}
+
+.container {
+}
+.row {
+}
+.col-12 {
+}
+.col-md-3 {
+}
+.person-information {
+    height: 100vh;
+    width: 100%;
+    padding: 0; padding-top: 50px;
+    background: var(--color1);
+}
+.user-img {
+    border-radius: 50%;
+    height: 20%;
+    display: block;
+    margin-left: auto;margin-right: auto;
+}
+
+.user-welcoming{
+    text-align: center;
+    margin-top: 12px;
+}
+.user-quote{
+    text-align: center;
+    max-width: 50%;
+    display: block;
+    margin-left: auto;margin-right: auto;
+}
+.user-check-buuton {
+    margin-top: 24px;
+    display: block;
+    margin-left: auto;margin-right: auto;
+    background-color: #fff;
+    color: var(--color1);
+    border: none;
+    padding: 5px 20px;
+    border-radius: 24px;
+    text-decoration: solid;
+    font-size: 24px;
+    font-family: Helvetica, sans-serif;
+}
+.for-pc-version {
+}
+.pc-ilustration {
+}
+.col {
+}
